@@ -1,0 +1,1 @@
+Se produjo un error al leer el archivo 'errrores.log': src\main\java\com\sesion7\reto2\errores.log
