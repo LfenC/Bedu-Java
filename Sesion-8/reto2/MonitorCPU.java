@@ -1,5 +1,4 @@
 
-package com.sesion8.reto2;
 
 import java.util.HashSet;
 import java.util.InputMismatchException;

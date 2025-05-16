@@ -1,5 +1,4 @@
 
-package com.sesion7.reto1;
 
 import java.io.IOException;
 import java.nio.file.Files;

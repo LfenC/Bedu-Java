@@ -1,6 +1,4 @@
 
-package com.sesion3.reto2;
-
 import java.util.Optional;
 
 /**

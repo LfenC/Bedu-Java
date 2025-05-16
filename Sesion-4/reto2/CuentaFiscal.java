@@ -1,6 +1,4 @@
 
-package com.sesion4.reto2;
-
 import java.util.Objects;
 
 /**

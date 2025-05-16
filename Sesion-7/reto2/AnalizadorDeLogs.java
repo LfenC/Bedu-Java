@@ -1,5 +1,4 @@
 
-package com.sesion7.reto2;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

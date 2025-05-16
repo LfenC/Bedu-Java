@@ -1,6 +1,4 @@
 
-package com.sesion4.reto1;
-
 /**
  *
  * @author lizet
