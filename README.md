@@ -60,3 +60,11 @@ Este es mi repositorio de retos, dentro de cada carpeta se encuentran los retos 
 #### Nota:
 - Cada reto contiene su propia clase Main con nombre diferentes, asegurate de cambiar el nombre al ejecutar la clase.  
 - También se puede ejecutar en tu IDE preferido como IntelliJ IDEA o NetBeans.
+
+
+
+¡Sugerencias y comentarios son bienvenidos!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="gatitoAdios" width="180"/>
+</p>
