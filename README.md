@@ -26,7 +26,7 @@ Este es mi repositorio de retos, dentro de cada carpeta se encuentran los retos 
 - #### Sesión 5: Diseño de clases (herencia y polimorfismo): reutiliza código existente por medio de herencia y polimorfismo.
 - #### Sesión 6: Diseño de clases (polimorfismo): integra los conceptos de polimorfismo en aplicaciones que hagan uso de herencia.
 - #### Sesión 7: Colecciones: utiliza diversas estrcuturas de datos de acuerdo al tipo de aplicación a desarrollar.
-- #### Sesión 8: Manejo de archivos: guarda informaci+on en un archivo de manera persistente.
+- #### Sesión 8: Manejo de archivos: guarda información en un archivo de manera persistente.
 
 
 ## Ejecución
