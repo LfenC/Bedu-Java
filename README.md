@@ -1,70 +1,70 @@
 # Bedu-Java
-Repositorio de retos resueltos del programa Tecnolochicas Programación con Java + BEDU
+Repository of solved challenges from the Tecnolochicas Programming with Java + BEDU program
 
-Creado por : Lizeth Consuelo Bañuelos Ruelas
+Created by: Lizeth Consuelo Bañuelos Ruelas
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="gatito" width="180"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="kitten" width="180"/>
 </p>
 
-# Hola, Soy Liz! 👋
-Este es mi repositorio de retos, dentro de cada carpeta se encuentran los retos correspondientes a cada sesión.
+# Hello, I'm Liz! 👋
+This is my challenge repository. Inside each folder are the challenges corresponding to each session.
 
 ## 🛠 Skills
 - Java
-- POO
-- Principios SOLID
-- Refactorización
-- API Java NIO.2
+- OOP (Object-Oriented Programming)
+- SOLID Principles
+- Refactoring
+- Java NIO.2 API
 
+## 📂 Topics
+- #### Session 1: Introduction to Object-Oriented Programming in Java.
+- #### Session 2: Data types and control statements.
+- #### Session 3: Classes and objects: create applications that allow data input.
+- #### Session 4: Elements of a class: implement data validation.
+- #### Session 5: Class design (inheritance and polymorphism): reuse existing code through inheritance and polymorphism.
+- #### Session 6: Class design (polymorphism): integrate polymorphism concepts into applications that use inheritance.
+- #### Session 7: Collections: use various data structures according to the type of application to develop.
+- #### Session 8: File handling: save information persistently in a file.
 
-## 📂 Temas
-- #### Sesión 1: Introducción a la Programación orientada a objetos en Java.
-- #### Sesión 2: Tipos de datos y sentencias de control.
-- #### Sesión 3: Clases y objetos: crea aplicaciones que permitan el ingreso de información.
-- #### Sesión 4: Elementos de una clase: implementa validación de datos.
-- #### Sesión 5: Diseño de clases (herencia y polimorfismo): reutiliza código existente por medio de herencia y polimorfismo.
-- #### Sesión 6: Diseño de clases (polimorfismo): integra los conceptos de polimorfismo en aplicaciones que hagan uso de herencia.
-- #### Sesión 7: Colecciones: utiliza diversas estrcuturas de datos de acuerdo al tipo de aplicación a desarrollar.
-- #### Sesión 8: Manejo de archivos: guarda información en un archivo de manera persistente.
+## Execution
 
-
-## Ejecución
-
-1. Clonar el proyecto
-  - Abre una terminal
-  - Usar el siguiente comando para clonar el repositorio
+1. Clone the project  
+  - Open a terminal  
+  - Use the following command to clone the repository  
 
 ```bash
   git clone https://github.com/LfenC/Bedu-Java.git
 ```
 
-2. Ve a la carpeta de la sesión que quieras probar
+2. Go to the folder of the session you want to try  
 
 ```bash
-  cd Bedu-Java/Sesion-[NumReto]/reto[NumReto]
+  cd Bedu-Java/Session-[ChallengeNumber]/challenge[ChallengeNumber]
 
-  Ejemplo: cd Bedu-Java/Sesion-1/reto1
+  Example: cd Bedu-Java/Session-1/challenge1
 ```
-3. Ejecuta el siguiente comando, el cual compila todos los archivos .java
+
+3. Run the following command, which compiles all the .java files  
+
 ```bash
   javac *.java
 ```
-3. Ejecuta la clase donde se encuentra el método main
-```bash
-  java [nombredelaClase]
 
-  Ejemplo: java Principal
+4. Run the class containing the main method  
+
+```bash
+  java [ClassName]
+
+  Example: java Principal
 ```
 
-#### Nota:
-- Cada reto contiene su propia clase Main con nombre diferentes, asegurate de cambiar el nombre al ejecutar la clase.  
-- También se puede ejecutar en tu IDE preferido como IntelliJ IDEA o NetBeans.
+#### Note:  
+- Each challenge contains its own Main class with different names, so make sure to change the name when running the class.  
+- You can also run it in your preferred IDE like IntelliJ IDEA or NetBeans.
 
-
-
-¡Sugerencias y comentarios son bienvenidos!
+Suggestions and feedback are welcome!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="gatitoAdios" width="180"/>
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="kittenGoodbye" width="180"/>
 </p>
